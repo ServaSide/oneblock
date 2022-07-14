@@ -6,4 +6,4 @@ ECHO |          ServaSide              |
 ECHO |                                 |
 START oneblock.exe                    
 ECHO |                                 |
-ECHO=============================== x
+ECHO x =============================== x
